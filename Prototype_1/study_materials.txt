@@ -1,0 +1,3 @@
+https://linuxjourney.com/
+https://developer.mozilla.org/en-US/docs/Learn
+https://github.com/mikeroyal/Linux-Guide
